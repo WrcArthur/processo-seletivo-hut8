@@ -8,4 +8,5 @@ function verifica(x, y) {
     if(x < 0 && y < 0) console.log('Nenhum dos valores é positivo')
 }
 
+//Chamando a função
 verifica(10, -5)
