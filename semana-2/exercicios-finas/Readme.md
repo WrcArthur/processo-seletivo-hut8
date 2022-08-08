@@ -19,5 +19,5 @@
     Utilizei um laço de repetição FOR aninhado, para percorrer o array de objetos e o array de skills.
 
 ### 6° Exercício
-    * Criar uma função que recebe dois valores randômicos como parâmetro para o Pedra Papel e Tesoura, e mostra qual usuário ganhou.
+   * Criar uma função que recebe dois valores randômicos como parâmetro para o Pedra Papel e Tesoura, e mostra qual usuário ganhou.
     Dentro da função instanciei as variáveis para os dois jogadores(Player 1 e Player 2), que recebem valores rendômicos entre 0 e 2. Dentro da função tem um operador condicional IF para comparar os valores, verificar quem ganhou ou se houve empate, e imprimir o resultado no console.
