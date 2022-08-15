@@ -1,6 +1,6 @@
 ### 1° Exercício
    * Imprimir todos os nomes de um array.
-    Criei uma função que recebe um array com vários nomes separados por virgulas. Utilizei o método Slipt para pegar o texto entre as vírgulas, e um laço de repetição For para imprimir os nomes.
+    Criei uma função que recebe um array com vários nomes separados por vírgulas. Utilizei o método Slipt para pegar o texto entre as vírgulas, e um laço de repetição For para imprimir os nomes.
 
 ### 2° Exercício
    * Trocar todas as virgúlas de uma string por ponto ponto final.
